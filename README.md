@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mansi-Vishwakarma
+- 👀 I’m interested in full stack developement
+- 🌱 I’m currently doing B.tech CS(DS+AI).
+- I also have a knowlegde of HTMl,CSS,JAVA,C++,Python.
